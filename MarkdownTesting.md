@@ -42,7 +42,7 @@ This is the link to the [First Level Heading](#first-level-heading)
 
 This is the link to the [Second Level Heading](#third-level-heading)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](docs/assets/pexels-pixabay-56866.jpg)
 
 This first line  
 This is second Line\
